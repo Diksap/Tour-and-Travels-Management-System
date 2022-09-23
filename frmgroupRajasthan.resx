@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Button7.Text" xml:space="preserve">
+    <value>It’s time now to say goodbye to our travel companions.
+Let’s stay in touch with each other through email, phone, WhatsApp, Facebook, Instagram and meet again on yet another memorable tour. See you all!!</value>
+  </data>
+  <data name="Button6.Text" xml:space="preserve">
+    <value>Today, its off to Bikaner. En route, stop at Pokaran which, though known as a nuclear test sight, is also the site of another grand fort. Look around its plum-coloured walls, and have lunch at the Pokaran Fort Hotel which is a popular pit-stop. You can also pick up some of the terracotta objects it's famous for.</value>
+  </data>
+  <data name="Button5.Text" xml:space="preserve">
+    <value>From the Blue City to the Golden one-the colour of honey. Even after what may seem like a surfeit of forts in Rajasthan, the Jaisalmer fort will take your breath away. It towers above the sandy plains, and encircles narrow, twisting lanes which bustle with activity. Shops selling bejewelled embroidery and handicrafts have touts vying to make a quick buck abound here.</value>
+  </data>
+  <data name="Button4.Text" xml:space="preserve">
+    <value>On first impression, you'll notice that the Blue City is indeed the colour of the sky. The old city is a maze of blue-painted buildings lying at the base of the imposing and regal Mehrangarh fort. Surrounded by a 16th century wall, the old city is a mesh of narrow streets and bazars, a medley of smells, sounds and sights, which amp up your experience. </value>
+  </data>
+  <data name="Button3.Text" xml:space="preserve">
+    <value>Wake up in your palatial abode and prepare to explore the countryside around. The hotel will arrange an excursion to Delwara village, where you can see the locals go about their daily lives in an unhurried fashion. Another short drive will take you to Bapparawal, where a small lake, set in a wooded expanse, allows you to soak in the majestic beauty of the Aravalis. Then, on to Udaipur, a 45-minute drive away</value>
+  </data>
+  <data name="Button2.Text" xml:space="preserve">
+    <value>This is not a day for a lazy lie-in. Therefore wake up and start early, to accommodate the distances to be covered. En route to Udaipur, your first stop is Ajmer, one of Rajasthan's most important Muslim pilgrimage centres as it is the home to the revered Khwaja Muin-ud-din Chishti's shrine. Say a quiet prayer and then head to Pushkar, the sacred town that wraps itself around a lake. </value>
+  </data>
+  <data name="Button1.Text" xml:space="preserve">
+    <value> Jaipur is the gateway to Rajasthan. Expect the city to be crowded, even claustrophobic in parts. Which is why we've picked Madhuban, the small heritage hotel, on Behari Marg to stay. The small hotel has beautifully appointed rooms, done up with artefacts and antique pieces and is a quiet haven, offering traditional Rajasthani hospitality that is sure to live up to your expectations.</value>
+  </data>
+</root>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Button7.Text" xml:space="preserve">
+    <value>It’s time now to say goodbye to our travel companions. Let’s stay in touch with each other through email, phone, WhatsApp, Facebook, Instagram and meet again on yet another memorable tour. See you all!!</value>
+  </data>
+  <data name="Button6.Text" xml:space="preserve">
+    <value>Today we proceed to Mandu, upon arrival we visit Jahaz Mahal- it was built as a transit accommodation for large number of pilgrims from Afghanistan, Arabia, Iran, Iraq, Morocco and Turkey who came to Delhi to visit the many Muslim shrines. Then we trek a small hill to visit Rani Roopmati Pavilion.</value>
+  </data>
+  <data name="Button5.Text" xml:space="preserve">
+    <value>Today we proceed to Maheshwar famous for Bollywood film locations, here we visit Royal Ahilya fort of Holkar Dynasty, Rehwa Society to see weaving process of Maheshwari sarees, we then take a boat ride at Narmada River. Later we have free time for shopping In the evening we attend Narmada Aarti at Narmada Ghat.
+</value>
+  </data>
+  <data name="Button4.Text" xml:space="preserve">
+    <value>Today we proceed to Omkareshwar - a Hindu temple dedicated to God Shiva, also one of the 12 revered Jyotirlinga shrines of Shiva. Then we proceed back to Indore. Upon arrival we have free time to relax &amp; explore the surroundings of Indore city.</value>
+  </data>
+  <data name="Button3.Text" xml:space="preserve">
+    <value>Today we proceed to Ujjain. Here we visit famous Jyotirlinga of Mahakaleshwar and Kal Bhairav Temple. Then we proceed back to Indore. Upon arrival we visit Lal Baug Palace. In the evening we enjoy a cultural show.</value>
+  </data>
+  <data name="Button2.Text" xml:space="preserve">
+    <value>Today we proceed to Mandu, en route we stop at Mhow - a cantonment in the Indore district. MHOW' stands for Military Headquarters of war. This is also a birth place of Dr. Baba Saheb Ambedkar. Here we take a photo stop at birthplace of Dr. Ambedkar. Then we trek a small hill to visit Rani Roopmati Pavilion.</value>
+  </data>
+  <data name="Button1.Text" xml:space="preserve">
+    <value>Guests will arrive at Indore Airport as per their Scheduled flight. Upon arrival they will meet Veena World tour manager at the airport and proceed for city tour. We visit tallest statue of Hanuman at Pitra Parvat. Later we visit Rajwada Palace - a historical palace in Indore city. It was built by the Holkars of the Maratha Empire. Then we have free time for shopping.</value>
+  </data>
+</root>

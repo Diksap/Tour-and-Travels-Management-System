@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Button7.Text" xml:space="preserve">
+    <value>It’s time now to say goodbye to our travel companions.
+Let’s stay in touch with each other through email, phone, WhatsApp, Facebook, Instagram and meet again on yet another memorable tour. See you all!!</value>
+  </data>
+  <data name="Button6.Text" xml:space="preserve">
+    <value>After a leisurely breakfast in the morning, start your tour of Madurai covering Sri Meenakshi Temple - the star attraction of the city. Flaunting towers, gateway, a golden shrine and statues, the shrine presents a sight to behold. The Dravidian architectural style adds to its ethereal charm.</value>
+  </data>
+  <data name="Button5.Text" xml:space="preserve">
+    <value>After breakfast, begin your temple trip in Tamil Nadu with a visit to Sri Brihadeshwara temple. Reckoned as one the largest temples in South India, the shrine is also famed as the 'Great Living Chola Temples', a UNESCO World Heritage Site. Thanjavur Royal Palace and Art Gallery is the next attraction of the day. Having seven different directions to explore. </value>
+  </data>
+  <data name="Button4.Text" xml:space="preserve">
+    <value>After breakfast, leave for an outing to Varadaraja Perumal Temple - dedicated to Lord Vishnu, the ancient shrine sits on the banks of the Thamirabarani River. This is followed by a trip to Manakula Vinayagar Temple which is in existence before the French came. The site is the revered as the holy abode of Lord Ganesha. Last but not least place to visit is Vedapureeswarar Temple.</value>
+  </data>
+  <data name="Button3.Text" xml:space="preserve">
+    <value>After breakfast, start your Tamil Nadu temple tour with Mahabalipuram sightseeing. Visit the Shore Temple – overlooking the shore of Bay of Bengal, the temple is exclusively crafted from blocks of granite. Next on the list is the Pancha Rathas – all carved from a single huge rock, the five raths nestled on the southern end of Mamallapuram beguiles the visitors.</value>
+  </data>
+  <data name="Button2.Text" xml:space="preserve">
+    <value>After breakfast, start your trip with a sightseeing tour of Chennai. The first attraction of the tour is Kapaleeshwarar Temple – dedicated to Lord Shiva, the ancient shrine presents a sight to behold. Next, you will visit St. Thomas Cathedral Church – also famed as the San Thome Church, the sacred site dates back to 16th-century.</value>
+  </data>
+  <data name="Button1.Text" xml:space="preserve">
+    <value>After reaching Chennai, meet our representative at the airport. He will help you with a guided transfer to the hotel. Famed as the 'Gateway to the South', Chennai still exudes traditional charm. Complete the check-in formalities once you reach the hotel and unwind yourself. The rest of the day is to be spent leisurely.</value>
+  </data>
+</root>
